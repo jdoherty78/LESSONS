@@ -2,7 +2,7 @@
 Attempt to Organize Growing Chaos of Repositories
 
 GUESSING GAME<br>
-*a simple guessing game, where the user has a limited number of attempts to guess the correct number. Hints are given.<br>
+1) A simple guessing game, where the user has a limited number of attempts to guess the correct number. Hints are given.<br>
 <br>
 TKINTER<br>
 1) simple gui app<br>
