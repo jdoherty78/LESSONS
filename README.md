@@ -2,9 +2,9 @@
 Attempt to Organize Growing Chaos of Repositories
 
 GUESSING GAME<br>
-
-
+*a simple guessing game, where the user has a limited number of attempts to guess the correct number. Hints are given.<br>
+<br>
 TKINTER<br>
--simple gui app<br>
--playing with input options gui<br>
--managing windows gui<br>
+1) simple gui app<br>
+2) playing with input options gui<br>
+3) managing windows gui<br>
