@@ -1,7 +1,7 @@
 # PROJECTS
 Attempt to Organize Growing Chaos of Repositories
 
-TKINTER
--simple gui app
--playing with input options gui
--managing windows gui
+TKINTER<br>
+-simple gui app<br>
+-playing with input options gui<br>
+-managing windows gui<br>
