@@ -8,5 +8,7 @@ Learning tkinter
 
 
 <img loading="lazy" src="tkinter.png" height=30% width=30% />
-***
+
+###
+
 <img loading="lazy" src="tkinter2.png" height=30% width=30% />
