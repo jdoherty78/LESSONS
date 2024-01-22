@@ -10,4 +10,5 @@ An attempt to consolidate PYTHON learning repositories.
 ###### 2) Playing with input options gui<br>
 ###### 3) Managing windows gui<br>
 ###### 4) Managing events (with bind) gui<br>
+###### 5) Managing images and links<br>
 ***
