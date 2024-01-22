@@ -5,3 +5,4 @@
 3) WINDOWS - managing multiple windows
 4) EVENTS - manging events with bind
 5) IMAGES - managing images and links
+6) TABS - managing tabs and frames
