@@ -6,3 +6,4 @@
 4) EVENTS - manging events with bind
 5) IMAGES - managing images and links
 6) TABS - managing tabs and frames
+7) FILE UPLOAD - app to upload/view image files
