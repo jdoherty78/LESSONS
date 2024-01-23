@@ -8,7 +8,7 @@ Learning tkinter<br>
 
 ***
 <img loading="lazy" src="random_files/file_upload2.png" height=30% width=30% />
-
+ERROR!   Image Files Only!
 ***
 
 <img loading="lazy" src="random_files/file_upload3.png" height=30% width=30% />
