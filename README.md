@@ -12,4 +12,5 @@ An attempt to consolidate PYTHON learning repositories.
 ###### 4) Managing events (with bind) gui<br>
 ###### 5) Managing images and links<br>
 ###### 6) Managing tabs and frames<br>
+###### 7) App to upload and view files<br>
 ***
