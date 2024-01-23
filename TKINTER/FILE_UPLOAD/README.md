@@ -4,13 +4,13 @@ Learning tkinter<br>
 -file uploads are restricted to image file types, and < 2 MB
 
 ***
-<img loading="lazy" src="random_files/filfe_upload1.png" height=30% width=30% />
+<img loading="lazy" src="random_files/file_upload1.png" height=30% width=30% />
 
 ***
-<img loading="lazy" src="random_files/filfe_upload2.png" height=30% width=30% />
+<img loading="lazy" src="random_files/file_upload2.png" height=30% width=30% />
 
 ***
 
-<img loading="lazy" src="random_files/filfe_upload3.png" height=30% width=30% />
+<img loading="lazy" src="random_files/file_upload3.png" height=30% width=30% />
 
 ***
