@@ -8,7 +8,7 @@ Learning tkinter<br>
 
 ***
 <img loading="lazy" src="tabs2.png" height=30% width=30% />
-Ipsum Lorem!<br>
+Lorem Ipsum!<br>
 
 ***
 
