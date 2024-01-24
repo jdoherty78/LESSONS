@@ -1,17 +1,17 @@
-# FILE_UPLOAD
+# TABS
 Learning tkinter<br>
--this little app allows for  uploading images, and viewing images<br>
--file uploads are restricted to image file types, and < 2 MB
+-this little shows 3 different tabs<br>
+-this is as exciting as it gets folks<br>
 
 ***
-<img loading="lazy" src="random_files/file_upload1.png" height=30% width=30% />
+<img loading="lazy" src="tabs1.png" height=30% width=30% />
 
 ***
-<img loading="lazy" src="random_files/file_upload2.png" height=30% width=30% />
+<img loading="lazy" src="tabs2.png" height=30% width=30% />
 ERROR!   Image Files Only!<br>
 
 ***
 
-<img loading="lazy" src="random_files/file_upload3.png" height=30% width=30% />
+<img loading="lazy" src="tabs3.png" height=30% width=30% />
 
 ***
