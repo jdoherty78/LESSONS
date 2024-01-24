@@ -1,4 +1,4 @@
-# PROJECTS
+# Lessons / Examples
 An attempt to consolidate PYTHON learning repositories.
 ***
 ##### GUESSING GAME<br>
