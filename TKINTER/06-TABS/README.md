@@ -1,6 +1,6 @@
 # TABS
 Learning tkinter<br>
--this little shows 3 different tabs<br>
+-this little app shows 3 different tabs<br>
 -this is as exciting as it gets folks<br>
 
 ***
