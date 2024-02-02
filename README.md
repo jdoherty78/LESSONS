@@ -14,6 +14,6 @@ An attempt to consolidate PYTHON learning repositories.
 ###### 6) Managing tabs and frames<br>
 ###### 7) App to upload and view files<br>
 ***
-##### CLIck<br>
+##### CLI - ck <br>
 ###### *- https://realpython.com/python-click/<br>
 ###### *- https://click.palletsprojects.com/en/8.1.x//<br>
