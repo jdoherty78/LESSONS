@@ -9,7 +9,7 @@ def my_consoles():pass
 
 @my_consoles.command("fave")
 def fave_console():
-    click.secho("My favourite console is PS5", fg="yellow")
+    click.secho("My favourite console is Xbox", fg="yellow")
 
 @cli.group("computers")
 def my_computers():pass
@@ -20,7 +20,7 @@ def desktop():
 
 @desktop.command("pc")
 def pc_game():
-    game = "Resident Evil 4"
+    game = "Total War: Warhammer 3"
     click.secho("My favourite game is {}".format(game),
                 fg = "red")
 
