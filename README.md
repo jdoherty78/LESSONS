@@ -20,5 +20,5 @@ An attempt to consolidate PYTHON learning repositories.
 
 ***
 ##### Encryption <br>
-###### 1) Makes use of: Fernet symmetric encryption, Werkzeug for storing hashes<br>
+###### 1) Makes use of Fernet symmetric encryption, Werkzeug for storing hashes<br>
 ###### 2) The app will zip a folder or selected files, encrypt and decrypt based on a password.<br>
