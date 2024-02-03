@@ -1,0 +1,3 @@
+Hamburger	$5/99
+Fries		$3.99
+Salad		$2.99
