@@ -52,7 +52,7 @@ def cli(command, files, pw):
                 decrypted_files = decrypt_zip(zip_filename)
 
                 if decrypted_files is not None:
-                    click.secho("""Zip folder decrypted successfully", fg="blue""")
+                    click.secho("Zip folder decrypted successfully", fg='blue')
                     click.secho("Decrypted files: ", fg="yellow")
                     for file in decrypted_files:
                         click.secho(file, fg="green")
