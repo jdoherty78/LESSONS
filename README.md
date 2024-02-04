@@ -25,6 +25,6 @@ An attempt to consolidate PYTHON learning repositories.
 ***
 ##### Snake Game - pygame <br>
 ###### 1) Makes use of pygame module<br>
-###### 2) The classic snake game.<br> - Don't touch the walls!<br> - Don't run into yourself!<br> - Get the high score.<br>
+###### 2) The classic snake game.  A windows compatible .exe is in the /dist directory<br> - Don't touch the walls!<br> - Don't run into yourself!<br> - Get the high score.<br>
 ***
 
