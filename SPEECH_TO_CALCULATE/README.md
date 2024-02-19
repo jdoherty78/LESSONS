@@ -1,5 +1,5 @@
 ## Speech To Calculate
-- https://realpython.com/python-speech-recognition/#picking-a-python-speech-recognition-package
+- https://realpython.com/python-speech-recognition/
 - python speak_loop.py
 - the script will tell you to start speaking, then say them back to you
 - You can add numbers up to 10 if you use the keyword 'calculate'
