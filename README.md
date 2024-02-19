@@ -27,4 +27,7 @@ An attempt to consolidate PYTHON learning repositories.
 ###### 1) Makes use of pygame module<br>
 ###### 2) The classic snake game.  <br> - Don't touch the walls!<br> - Don't run into yourself!<br> - Get the high score.<br>
 ***
-
+##### Speech To Calculate <br>
+###### 1) pyttsx3 <br>
+###### 2) Makes use of SpeechRecognition module<br>
+***
