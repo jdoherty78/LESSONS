@@ -1,7 +1,7 @@
 ## Speech To Calculate
 - https://realpython.com/python-speech-recognition/
 - python speak_loop.py
-- the script will tell you to start speaking, then say them back to you
+- the script will tell you to start speaking, then will repeat what you say back to you
 - You can add numbers up to 10 if you use the keyword 'calculate'
 - appends any calculations to a file in the MATH directory, recording the date and time
 
