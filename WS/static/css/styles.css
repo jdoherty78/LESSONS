@@ -1,0 +1,40 @@
+*{ list-style:none;
+}
+body{
+    background-color:thistle;
+    overflow-x:hidden;
+    margin:0;
+    padding:0;
+    font-size:15px;
+    
+}
+
+.container-review{
+    background-color:cornflowerblue;
+    padding:5px;
+    margin:5px;
+    border-radius:5px;
+    color:white;
+    width:40%;
+    border:3px solid red;
+}
+
+#anime-list{
+    color:white;
+    font-size:20px;
+    text-transform:uppercase;
+    font-weight:bold;
+    background-color:seaGreen;
+    padding:5px;
+    width:50%;
+}
+
+#anime-list li{
+     text-align:left;
+}
+
+img{
+    height:80px;
+    width:80px;
+    border-radius:50%;
+}
